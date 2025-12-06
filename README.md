@@ -1,5 +1,10 @@
 # 💫 About Me:
-I’m an experienced full-stack developer with a strong background in .NET development across a variety of business applications. I work confidently across multiple platforms and technologies, and I combine my technical expertise with strong communication, teamwork, and project management skills. I’m comfortable collaborating with clients, gathering requirements, and translating business needs into scalable solutions.<br>My core expertise includes ASP.NET Core, ASP.NET Framework, .NET Web APIs, Entity Framework, LINQ, SQL Server, Angular 13, JavaScript, jQuery, HTML5, CSS3, Bootstrap, and Ajax. I’m also recognized as a PHP/Core PHP developer with solid experience in MySQL.<br><br>Additionally, I’m a Gold Medalist in BSCIT and have earned appreciation certificates from organizations I’ve served—reflecting my dedication, performance, and commitment to delivering high-quality results.
+As a software developer, I am passionate about developing creative and effective
+solutions. With extensive experience in software development, I have developed my talents.
+To deliver exceptional results. I am proficient in a variety of programming languages.
+Frameworks and tools. From developing reliable applications to designing
+scalable architectures and optimizing performance, I enjoy addressing difficult issues,
+challenges and develop high-quality software.
 
 
 ## 🌐 Socials:
